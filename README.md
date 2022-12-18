@@ -20,8 +20,10 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 	- [Generating Maps](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-visualizations-generating-maps.ipynb) <br/> 	
 	- [Single value Visualizations](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-visualizations_single-value-visualizations.ipynb) <br/> 	
 	- [Formatting Visualizations](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-visualizations_formatting-visualizations.ipynb) <br/>
-- ``Working with Time``  <br/>
+- ``Working with Time``  [&#x1F393;](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-working-with-time_working-with-time-zones.ipynb#CertificateofCompletionWorkingwithTime) <br/>
 	- [Searching with Time](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-working-with-time_searching-with-time.ipynb) &#x1F6A7; <br/> 
-	- [Formatting Time](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-working-with-time_formatting-time.ipynb) &#x2B55; <br/>
+	- [Formatting Time](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-working-with-time_formatting-time.ipynb) &#x1F6A7; <br/>
+	- [Using Time Commands](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-working-with-time_using-time-commands.ipynb) <br/>
+	- [Working with Time Zones](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-working-with-time_working-with-time-zones.ipynb) <br/> 
 
 ## END
