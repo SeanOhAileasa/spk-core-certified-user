@@ -25,20 +25,20 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 	- [Formatting Time](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-working-with-time_formatting-time.ipynb) &#x1F6A7; <br/>
 	- [Using Time Commands](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-working-with-time_using-time-commands.ipynb) <br/>
 	- [Working with Time Zones](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-working-with-time_working-with-time-zones.ipynb) <br/> 
-- ``Statistical Processing``  <br/>
-	- [What is a Data Series?](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_what-is-a-data-series.ipynb) &#x274C; <br/>
-	- [Chart Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_chart-command.ipynb) &#x274C; <br/>
-	- [Timechart Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_timechart-command.ipynb) &#x274C; <br/>
-	- [Top Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_top-command.ipynb) &#x274C; <br/>
-	- [Rare Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_rare-command.ipynb) &#x274C; <br/>
-	- [Stats Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_stats-command.ipynb) &#x274C; <br/>
-	- [Functions of the Stats Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_functions-of-the-stats-command.ipynb) &#x274C; <br/>
-	- [Transforming Commands Summary](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_transforming-commands-summary.ipynb) &#x274C; <br/>
-	- [Eval Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_eval-command.ipynb) &#x274C; <br/>
-	- [Functions of the Eval Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_functions-of-the-eval-command.ipynb) &#x274C; <br/>
-	- [Eval as a Function](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_eval-as-a-function.ipynb) &#x274C; <br/>
-	- [Rename Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_rename-command.ipynb) &#x274C; <br/>
-	- [Sort Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_sort-command.ipynb) &#x274C; <br/>
+- ``Statistical Processing``  [&#x1F393;](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_sort-command.ipynb#StatisticalProcessing) <br/>
+	- [What is a Data Series?](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_what-is-a-data-series.ipynb) <br/>
+	- [Chart Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_chart-command.ipynb) <br/>
+	- [Timechart Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_timechart-command.ipynb) <br/>
+	- [Top Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_top-command.ipynb) <br/>
+	- [Rare Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_rare-command.ipynb) <br/>
+	- [Stats Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_stats-command.ipynb) <br/>
+	- [Functions of the Stats Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_functions-of-the-stats-command.ipynb) <br/>
+	- [Transforming Commands Summary](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_transforming-commands-summary.ipynb) <br/>
+	- [Eval Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_eval-command.ipynb) <br/>
+	- [Functions of the Eval Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_functions-of-the-eval-command.ipynb) <br/>
+	- [Eval as a Function](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_eval-as-a-function.ipynb) <br/>
+	- [Rename Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_rename-command.ipynb) <br/>
+	- [Sort Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_sort-command.ipynb) <br/>
 - ``Leveraging Lookups and Subsearches`` <br/>
 	- [Introduction to Lookups](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-leveraging-lookups-and-subsearches_introduction-to-lookups.ipynb) &#x274C; <br/>
 	- [Using Lookups Commands](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-leveraging-lookups-and-subsearches_using-lookups-commands.ipynb) &#x274C; <br/>
@@ -49,5 +49,13 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 	- [When to Use Subsearch](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-leveraging-lookups-and-subsearches_when-to-use-subsearch.ipynb) &#x274C; <br/>
 	- [Troubleshooting Subsearch](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-leveraging-lookups-and-subsearches_troubleshooting-subsearch.ipynb) &#x274C; <br/>
 	- [Return Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-leveraging-lookups-and-subsearches_return-command.ipynb) &#x274C; <br/>
+- ``Search Optimization`` <br/>
+	- [Search Optimization Overview](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_search-optimization-overview.ipynb) &#x274C; <br/>
+	- [Splunk Search Scheduler](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_splunk-search-scheduler.ipynb) &#x274C; <br/>
+	- [Search Acceleration Overview](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_search-acceleration-overview.ipynb) &#x274C; <br/>
+	- [Report Acceleration](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_report-acceleration.ipynb) &#x274C; <br/>
+	- [Data Model Acceleration](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_data-model-acceleration.ipynb) &#x274C; <br/>
+	- [Datamodel Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_datamodel-command.ipynb) &#x274C; <br/>
+	- [Tstats Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_tstats-command.ipynb) &#x274C; <br/>
 
 ## END
